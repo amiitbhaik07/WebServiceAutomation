@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="D:/Local Disk D/SeleniumWorks/Jars/Apache/httpclient/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="D:/Local Disk D/SeleniumWorks/Jars/Apache/httpclient/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/Local Disk D/SeleniumWorks/Jars/Apache/httpclient/fluent-hc-4.5.3.jar"/>
+	<classpathentry kind="lib" path="D:/Local Disk D/SeleniumWorks/Jars/Apache/httpclient/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="D:/Local Disk D/SeleniumWorks/Jars/Apache/httpclient/httpclient-cache-4.5.3.jar"/>
+	<classpathentry kind="lib" path="D:/Local Disk D/SeleniumWorks/Jars/Apache/httpclient/httpclient-win-4.5.3.jar"/>
+	<classpathentry kind="lib" path="D:/Local Disk D/SeleniumWorks/Jars/Apache/httpclient/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="D:/Local Disk D/SeleniumWorks/Jars/Apache/httpclient/httpmime-4.5.3.jar"/>
+	<classpathentry kind="lib" path="D:/Local Disk D/SeleniumWorks/Jars/Apache/httpclient/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/Local Disk D/SeleniumWorks/Jars/Apache/httpclient/jna-platform-4.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/Local Disk D/SeleniumWorks/Jars/Skyscreamer/json-20140107.jar"/>
+	<classpathentry kind="lib" path="D:/Local Disk D/SeleniumWorks/Jars/Skyscreamer/jsonassert-1.5.0.jar"/>
+	<classpathentry kind="lib" path="D:/Local Disk D/SeleniumWorks/Jars/Skyscreamer/jsonassert-1.5.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/Local Disk D/SeleniumWorks/Jars/Apache/poi-3.17/poi-3.17.jar"/>
+	<classpathentry kind="lib" path="D:/Local Disk D/SeleniumWorks/Jars/Apache/poi-3.17/poi-examples-3.17.jar"/>
+	<classpathentry kind="lib" path="D:/Local Disk D/SeleniumWorks/Jars/Apache/poi-3.17/poi-excelant-3.17.jar"/>
+	<classpathentry kind="lib" path="D:/Local Disk D/SeleniumWorks/Jars/Apache/poi-3.17/poi-ooxml-3.17.jar"/>
+	<classpathentry kind="lib" path="D:/Local Disk D/SeleniumWorks/Jars/Apache/poi-3.17/poi-ooxml-schemas-3.17.jar"/>
+	<classpathentry kind="lib" path="D:/Local Disk D/SeleniumWorks/Jars/Apache/poi-3.17/poi-scratchpad-3.17.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
